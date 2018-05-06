@@ -1,1 +1,1 @@
-# Parking-Ticker-Simulator
+# Parking-Ticket-Simulator
